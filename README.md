@@ -4,7 +4,7 @@ This plugin, is forked from https://github.com/dragosboro/cPanel-Inodes-Usage.
 
 It provides real-time, detailed insights into inode usage for a cPanel account. It allows users to quickly assess their inode consumption across directories and subfolders, with inode counts updated dynamically on every page reload.
 
-![Inode Usage Interface](.inodes-search-bar.PNG)
+![Inode Usage Interface](./inodes-search-bar.PNG)
 
 ## Key Features
 - **Real-Time Updates**: Unlike the default inode display in cPanel, this plugin updates inode usage in real-time with every page reload.
