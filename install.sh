@@ -6,8 +6,8 @@ DATA_ARCHIVE="data.zip"
 PLUGIN_DIR="/usr/local/cpanel/base/frontend/jupiter/inode_usage"
 JUPITER_THEME_DIR="/usr/local/cpanel/base/frontend/jupiter"
 CURRENT_DIR=$(pwd)
-PLUGIN_URL="https://dragosboroianu.com/inode_usage.tar.gz"
-DATA_URL="https://dragosboroianu.com/data.zip"
+PLUGIN_URL="https://github.com/neelsoon/cPanel-Inodes-Usage/blob/main/inode_usage.tar.7z"
+DATA_URL="https://github.com/neelsoon/cPanel-Inodes-Usage/blob/main/data.zip"
 
 # Step 1: Download the inode_usage.tar.gz (cPanel plugin archive) using wget
 echo "Downloading the inode_usage.tar.gz plugin archive..."
